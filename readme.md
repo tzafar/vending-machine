@@ -15,6 +15,4 @@ A simple vending machine that allows customers to make a purchase
 <img width="937" alt="Screenshot 2020-06-04 at 23 12 35" src="https://user-images.githubusercontent.com/878444/83816311-05397180-a6ba-11ea-948b-3a4ccd0d0408.png">
 
 ## Running Program
-
-
-
+<img width="937" alt="Screenshot 2020-06-04 at 23 24 06" src="https://user-images.githubusercontent.com/878444/83816537-898bf480-a6ba-11ea-97ea-d2817ecee619.png">
